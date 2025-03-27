@@ -1,0 +1,72 @@
+body{
+    background-color:#d2bf85;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 150%;
+
+}
+
+header {
+    background-color: ;
+    Color:;
+    line-height: ;
+}
+
+.nav1 {
+    background-color: #bf7878;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 25px;
+    display: flex;  /* Use flexbox for layout */
+    gap: 90px;  /* Space between items in the navigation bar */
+    justify-content: center;  /* Align items to the left */
+}
+
+#second-nav{
+    background-color: #bf7878;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 25px;
+    display: flex;  /* Use flexbox for layout */
+    gap: 100px;  /* Space between items in the navigation bar */
+    justify-content: center;  /* Align items to the left */
+}
+
+#third-nav{
+    background-color: #bf7878;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 25px;
+    display: flex;  /* Use flexbox for layout */
+    gap: 100px;  /* Space between items in the navigation bar */
+    justify-content: center;  /* Align items to the left */
+}
+
+img {
+    margin-top: 10px;
+}
+
+main {
+
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+li {
+
+}
+
+h1 {
+
+}
+
+P {
+
+}
