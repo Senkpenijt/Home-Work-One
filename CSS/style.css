@@ -48,6 +48,18 @@ img {
     margin-top: 10px;
 }
 
+#third-img {
+    margin-bottom: 150px;
+    width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.images {
+    margin-bottom: 150px;
+    width: 100%; /* Make the image responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
 main {
 
 }
